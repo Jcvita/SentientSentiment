@@ -1,0 +1,7 @@
+{
+  gpt3secret: "<secret key>",
+  twitter: {
+    user: "<username>",
+    pass: "<password>"
+  }
+}
